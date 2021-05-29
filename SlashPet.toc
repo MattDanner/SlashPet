@@ -1,0 +1,6 @@
+## Interface: 20501
+## Title : SlashPet
+## Notes: Adds /pet to the game.
+## Author: Rebosar
+
+SlashPet.lua
